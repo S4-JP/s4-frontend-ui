@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`form - InputDate のレンダリング確認 propsで値を渡した場合、その値でレンダリングされる。 1`] = `
+<div
+  class="sc-ksZaOG cBAAyC"
+  data-testid="atoms-f-input-date"
+>
+  <div
+    class="sc-hAZoDl bbaXIT"
+  >
+    <div
+      class="sc-fnykZs kgybnE"
+    >
+      <div
+        class="react-datepicker-wrapper"
+      >
+        <div
+          class="react-datepicker__input-container"
+        >
+          <input
+            autocomplete="off"
+            class=""
+            name="test date-picker"
+            placeholder="Please select a date"
+            type="text"
+            value="2022/02/22"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`form - InputDate のレンダリング確認 オプションなしで設定した場合、初期値でレンダリングされる。 1`] = `
+<div
+  class="sc-ksZaOG cBAAyC"
+  data-testid="atoms-f-input-date"
+>
+  <div
+    class="sc-hAZoDl bbaXIT"
+  >
+    <div
+      class="sc-fnykZs kgybnE"
+    >
+      <div
+        class="react-datepicker-wrapper"
+      >
+        <div
+          class="react-datepicker__input-container"
+        >
+          <input
+            autocomplete="off"
+            class=""
+            placeholder="0000/00/00"
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

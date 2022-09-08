@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Supplementのレンダリング確認 propsに設定した値でレンダリングされる。 1`] = `
+<p
+  class="sc-dsQDmV jZpZSg"
+  data-testid="atoms-sup-text"
+>
+  test
+</p>
+`;

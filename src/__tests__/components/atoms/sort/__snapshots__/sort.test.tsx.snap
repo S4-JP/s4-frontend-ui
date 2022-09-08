@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sort のレンダリング確認 childを設定した場合、設定値でレンダリングされる。 1`] = `
+<div
+  class="sc-bUbCnL cqBQSt"
+  data-testid="atoms-s-wrap"
+>
+  <div
+    class="sc-kIKDeO bOiMvG"
+    data-testid="atoms-s-button-wrap"
+  >
+    <span
+      class="sc-papXJ cwCWPm"
+      color="#C6D6E3"
+      data-testid="atoms-i-icon-wrap"
+      size="8"
+    >
+      <svg
+        data-testid="atoms-icon-svg-sort-asc"
+        viewBox="0 0 20 15"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M32 137h40v40H32z"
+          fill="none"
+        />
+        <path
+          d="M19.421 10.522 12.2 1.088a2.772 2.772 0 0 0-4.4 0L.579 10.522A2.783 2.783 0 0 0 2.78 15h14.438a2.784 2.784 0 0 0 2.2-4.478"
+        />
+      </svg>
+    </span>
+    <span
+      class="sc-papXJ cwCWPm"
+      color="#C6D6E3"
+      data-testid="atoms-i-icon-wrap"
+      size="8"
+    >
+      <svg
+        data-testid="atoms-icon-svg-sort-desc"
+        viewBox="0 0 20 15"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M32 137h40v40H32z"
+          fill="none"
+        />
+        <path
+          d="M.579 4.478 7.8 13.912a2.772 2.772 0 0 0 4.4 0l7.218-9.434A2.783 2.783 0 0 0 17.218 0H2.782a2.784 2.784 0 0 0-2.2 4.478"
+        />
+      </svg>
+    </span>
+  </div>
+  <div
+    class="sc-hNKHps cJYfgR"
+    data-testid="atoms-s-label"
+  >
+    テスト
+  </div>
+</div>
+`;
+
+exports[`Sort のレンダリング確認 オプションなしで設定した場合、初期値でレンダリングされる。 1`] = `
+<div
+  class="sc-bUbCnL cqBQSt"
+  data-testid="atoms-s-wrap"
+>
+  <div
+    class="sc-kIKDeO bOiMvG"
+    data-testid="atoms-s-button-wrap"
+  >
+    <span
+      class="sc-papXJ cwCWPm"
+      color="#C6D6E3"
+      data-testid="atoms-i-icon-wrap"
+      size="8"
+    >
+      <svg
+        data-testid="atoms-icon-svg-sort-asc"
+        viewBox="0 0 20 15"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M32 137h40v40H32z"
+          fill="none"
+        />
+        <path
+          d="M19.421 10.522 12.2 1.088a2.772 2.772 0 0 0-4.4 0L.579 10.522A2.783 2.783 0 0 0 2.78 15h14.438a2.784 2.784 0 0 0 2.2-4.478"
+        />
+      </svg>
+    </span>
+    <span
+      class="sc-papXJ cwCWPm"
+      color="#C6D6E3"
+      data-testid="atoms-i-icon-wrap"
+      size="8"
+    >
+      <svg
+        data-testid="atoms-icon-svg-sort-desc"
+        viewBox="0 0 20 15"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M32 137h40v40H32z"
+          fill="none"
+        />
+        <path
+          d="M.579 4.478 7.8 13.912a2.772 2.772 0 0 0 4.4 0l7.218-9.434A2.783 2.783 0 0 0 17.218 0H2.782a2.784 2.784 0 0 0-2.2 4.478"
+        />
+      </svg>
+    </span>
+  </div>
+</div>
+`;

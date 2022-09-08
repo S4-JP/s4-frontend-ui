@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tooltipのレンダリング確認 propsに設定した値でレンダリングされる。 1`] = `
+<span
+  class="sc-jTYCaT oXIUP"
+  data-testid="atoms-tt-wrap"
+>
+  <span
+    class="sc-cZwWEu dRWbhx"
+  >
+    test
+  </span>
+</span>
+`;

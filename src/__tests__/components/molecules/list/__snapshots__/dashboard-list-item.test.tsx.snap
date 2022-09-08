@@ -1,0 +1,210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Statusのレンダリング確認 status=1 の場合、StatusBacklog が表示される。 1`] = `
+<div
+  class="sc-fmRtwQ hpjlik"
+  data-testid="molecules-dli-status-wrap"
+>
+  <div
+    class="sc-lkwKjF dZZohc"
+  >
+    <div
+      class="sc-ikZpkk cnDQvm"
+      data-testid="atoms-ii-wrap"
+      size="24"
+    >
+      <img
+        alt=""
+        data-testid="atoms-ii-img"
+        src="data:image/png;base64,test"
+      />
+    </div>
+  </div>
+  <span
+    class="sc-papXJ joGxUk"
+    data-testid="atoms-i-icon-wrap"
+    size="24"
+  >
+    <svg
+      data-testid="atoms-icon-svg-status-backlog"
+      viewBox="0 0 40 40"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M0 0h40v40H0z"
+        fill="none"
+      />
+      <g
+        fill="#ffa5a5"
+      >
+        <path
+          d="M7.412 15.798a13.056 13.056 0 0 1 .705-1.7 3.763 3.763 0 0 0-.746-4.325 3.823 3.823 0 0 0-6.122.977 20.976 20.976 0 0 0-1.04 2.5 3.83 3.83 0 0 0 3.627 5.056 3.749 3.749 0 0 0 3.576-2.508ZM14.1 8.115a13.336 13.336 0 0 1 1.7-.7 3.747 3.747 0 0 0 2.5-3.576A3.83 3.83 0 0 0 13.246.212a21 21 0 0 0-2.5 1.04 3.824 3.824 0 0 0-.975 6.122 3.766 3.766 0 0 0 4.329.741ZM8.117 25.9a12.86 12.86 0 0 1-.705-1.7 3.75 3.75 0 0 0-3.578-2.5 3.828 3.828 0 0 0-3.627 5.054 21.118 21.118 0 0 0 1.04 2.5 3.823 3.823 0 0 0 6.122.975 3.765 3.765 0 0 0 .748-4.329ZM21.698 3.833a3.749 3.749 0 0 0 2.5 3.578 13.288 13.288 0 0 1 1.7.7 3.763 3.763 0 0 0 4.325-.746 3.823 3.823 0 0 0-.977-6.122 21 21 0 0 0-2.5-1.04 3.83 3.83 0 0 0-5.048 3.63ZM31.884 14.099a13.088 13.088 0 0 1 .7 1.7 3.749 3.749 0 0 0 3.578 2.5 3.83 3.83 0 0 0 3.629-5.054 20.614 20.614 0 0 0-1.041-2.5 3.821 3.821 0 0 0-6.121-.977 3.76 3.76 0 0 0-.745 4.331ZM32.588 24.201a13.21 13.21 0 0 1-.7 1.7 3.76 3.76 0 0 0 .744 4.325 3.821 3.821 0 0 0 6.121-.977 20.841 20.841 0 0 0 1.041-2.5 3.829 3.829 0 0 0-3.629-5.054 3.75 3.75 0 0 0-3.577 2.506ZM25.901 31.885a13.27 13.27 0 0 1-1.7.7 3.749 3.749 0 0 0-2.5 3.578 3.829 3.829 0 0 0 5.054 3.627 20.44 20.44 0 0 0 2.5-1.04 3.822 3.822 0 0 0 .977-6.121 3.76 3.76 0 0 0-4.331-.744ZM15.799 32.585a13.072 13.072 0 0 1-1.7-.7 3.763 3.763 0 0 0-4.327.744 3.822 3.822 0 0 0 .975 6.121 20.711 20.711 0 0 0 2.5 1.04 3.829 3.829 0 0 0 5.054-3.627 3.75 3.75 0 0 0-2.502-3.578Z"
+        />
+      </g>
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Statusのレンダリング確認 status=2 の場合、StatusProgress が表示される。 1`] = `
+<div
+  class="sc-fmRtwQ hpjlik"
+  data-testid="molecules-dli-status-wrap"
+>
+  <div
+    class="sc-lkwKjF dZZohc"
+  >
+    <div
+      class="sc-ikZpkk cnDQvm"
+      data-testid="atoms-ii-wrap"
+      size="24"
+    >
+      <img
+        alt=""
+        data-testid="atoms-ii-img"
+        src="data:image/png;base64,test"
+      />
+    </div>
+  </div>
+  <span
+    class="sc-papXJ joGxUk"
+    data-testid="atoms-i-icon-wrap"
+    size="24"
+  >
+    <svg
+      data-testid="atoms-icon-svg-status-progress"
+      viewBox="0 0 40 40"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M0 0h40v40H0z"
+        fill="none"
+      />
+      <path
+        d="M3.747 21.209a3.741 3.741 0 0 0-3.545 4.939 20.218 20.218 0 0 0 1.016 2.442 3.736 3.736 0 0 0 5.984.955 3.679 3.679 0 0 0 .729-4.228 12.574 12.574 0 0 1-.689-1.66 3.665 3.665 0 0 0-3.495-2.448ZM9.55 7.205a3.678 3.678 0 0 0 4.229.729 12.861 12.861 0 0 1 1.659-.687 3.665 3.665 0 0 0 2.447-3.5A3.744 3.744 0 0 0 12.944.201a20.476 20.476 0 0 0-2.441 1.016 3.736 3.736 0 0 0-.953 5.988ZM7.244 15.443a12.762 12.762 0 0 1 .689-1.66 3.677 3.677 0 0 0-.729-4.227 3.737 3.737 0 0 0-5.984.955 20.218 20.218 0 0 0-1.016 2.442 3.742 3.742 0 0 0 3.545 4.94 3.664 3.664 0 0 0 3.495-2.45Z"
+        fill="#d4d7dd"
+      />
+      <path
+        d="M21.207 3.749a3.671 3.671 0 0 0 2.456 3.5 12.971 12.971 0 1 1-9.925 23.893 3.549 3.549 0 0 0-4.109.671l-.068.068a3.74 3.74 0 0 0 .928 5.991 20.3 20.3 0 0 0 10.181 2.1A20.442 20.442 0 0 0 26.121.2a3.736 3.736 0 0 0-4.914 3.549Z"
+        fill="#05abef"
+      />
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Statusのレンダリング確認 status=3 の場合、StatusClosed が表示されれる。 1`] = `
+<div
+  class="sc-fmRtwQ hpjlik"
+  data-testid="molecules-dli-status-wrap"
+>
+  <div
+    class="sc-lkwKjF dZZohc"
+  >
+    <div
+      class="sc-ikZpkk cnDQvm"
+      data-testid="atoms-ii-wrap"
+      size="24"
+    >
+      <img
+        alt=""
+        data-testid="atoms-ii-img"
+        src="data:image/png;base64,test"
+      />
+    </div>
+  </div>
+  <span
+    class="sc-papXJ joGxUk"
+    data-testid="atoms-i-icon-wrap"
+    size="24"
+  >
+    <svg
+      data-testid="atoms-icon-svg-status-closed"
+      viewBox="0 0 40 40"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g
+        transform="translate(-32 -137)"
+      >
+        <path
+          d="M32 137h40v40H32z"
+          fill="none"
+        />
+        <rect
+          fill="#d4d7dd"
+          height="4"
+          rx="2"
+          transform="translate(39 155)"
+          width="26"
+        />
+      </g>
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Statusのレンダリング確認 status=9 の場合、StatusDone が表示される。 1`] = `
+<div
+  class="sc-fmRtwQ hpjlik"
+  data-testid="molecules-dli-status-wrap"
+>
+  <div
+    class="sc-lkwKjF dZZohc"
+  >
+    <div
+      class="sc-ikZpkk cnDQvm"
+      data-testid="atoms-ii-wrap"
+      size="24"
+    >
+      <img
+        alt=""
+        data-testid="atoms-ii-img"
+        src="data:image/png;base64,test"
+      />
+    </div>
+  </div>
+  <span
+    class="sc-papXJ joGxUk"
+    data-testid="atoms-i-icon-wrap"
+    size="24"
+  >
+    <svg
+      data-testid="atoms-icon-svg-status-done"
+      viewBox="0 0 40 40"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M20-.003a20 20 0 1 0 20 20 20 20 0 0 0-20-20Zm11.386 14.875-13.7 13.7a2.119 2.119 0 0 1-3 0L7.924 21.81a2.121 2.121 0 1 1 3-3l5.262 5.262 12.2-12.2a2.121 2.121 0 0 1 3 3Z"
+        fill="#00c160"
+      />
+      <path
+        d="M0 0h40v40H0z"
+        fill="none"
+      />
+    </svg>
+  </span>
+</div>
+`;
+
+exports[`Statusのレンダリング確認 status=100 の場合、表示されない。 1`] = `
+<div
+  class="sc-fmRtwQ hpjlik"
+  data-testid="molecules-dli-status-wrap"
+>
+  <div
+    class="sc-lkwKjF dZZohc"
+  >
+    <div
+      class="sc-ikZpkk cnDQvm"
+      data-testid="atoms-ii-wrap"
+      size="24"
+    >
+      <img
+        alt=""
+        data-testid="atoms-ii-img"
+        src="data:image/png;base64,test"
+      />
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`form - ToggleButton のレンダリング確認 オプションなしで設定した場合、初期値でレンダリングされる。 1`] = `
+<label
+  class="sc-iIPllB gQpSmt"
+  data-testid="atoms-f-toggle-button-label"
+>
+  <div
+    class="sc-gicCDI ihZzBr"
+    data-testid="atoms-f-toggle-button-marker"
+  >
+    <p
+      class="sc-ezWOiH dHdGUL"
+      data-testid="atoms-f-toggle-button-on"
+    >
+      ON
+    </p>
+    <p
+      class="sc-bZkfAO yACOH"
+      data-testid="atoms-f-toggle-button-off"
+    >
+      OFF
+    </p>
+  </div>
+  <input
+    class="sc-kLLXSd bNKuxI"
+    data-testid="atoms-f-toggle-button-inner-input"
+    type="checkbox"
+  />
+</label>
+`;

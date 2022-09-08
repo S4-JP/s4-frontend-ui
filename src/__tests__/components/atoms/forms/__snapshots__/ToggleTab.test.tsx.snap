@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`form - ToggleTab のレンダリング確認 オプションなしで設定した場合、初期値でレンダリングされる。 1`] = `
+<label
+  class="sc-efBctP eqbWMO"
+  data-testid="atoms-f-toggle-tab-label"
+>
+  <input
+    data-testid="atoms-f-toggle-tab-input"
+    type="radio"
+  />
+  <span
+    data-testid="atoms-f-toggle-tab-span"
+  />
+</label>
+`;

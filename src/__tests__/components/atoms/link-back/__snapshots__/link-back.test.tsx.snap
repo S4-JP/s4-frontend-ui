@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`link-back のレンダリング確認 オプションなしで設定した場合、初期値でレンダリングされる。 1`] = `
+<div
+  class="sc-eKszNL nnjOc"
+  data-testid="atoms-lb-wrap"
+>
+  <div
+    class="sc-olbas dCaWPH"
+    data-testid="atoms-lb-icon"
+  >
+    <span
+      class="sc-papXJ jmpmrA"
+      color="#92A2AF"
+      data-testid="atoms-i-icon-wrap"
+      size="14"
+    >
+      <svg
+        data-testid="atoms-icon-svg-chevron-left"
+        viewBox="0 0 40 40"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0 0h40v40H0z"
+          fill="none"
+        />
+        <path
+          d="M26.651 36.259a2.954 2.954 0 0 0 0-4.086L14.479 19.999 26.654 7.824a2.89 2.89 0 0 0-4.088-4.086L8.348 17.956a2.885 2.885 0 0 0 0 4.086l14.218 14.217a2.885 2.885 0 0 0 4.086 0Z"
+        />
+      </svg>
+    </span>
+  </div>
+  <div
+    class="sc-hiMGwR fkedgA"
+    data-testid="atoms-lb-test"
+  >
+    test
+  </div>
+</div>
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`トグルタブリストのレンダリング確認 propsに設定した値でレンダリングされる。 1`] = `
+<div
+  class="sc-iWajrY gKIHjj"
+  data-testid="molecules-ttl-wrap"
+>
+  <span>
+    dummy
+  </span>
+</div>
+`;
