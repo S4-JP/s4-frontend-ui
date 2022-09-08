@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UnorderedListのレンダリング確認 propsに設定した値でレンダリングされる。 1`] = `
+<li
+  class="sc-jQHtVU fNzYKJ"
+  data-testid="atoms-ul-text"
+>
+  <span>
+    dummy
+  </span>
+</li>
+`;

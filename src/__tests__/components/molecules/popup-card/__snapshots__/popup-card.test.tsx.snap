@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ポップアップカードのレンダリング確認 オプションなしで設定した場合、初期値でレンダリングされる。 1`] = `
+<div
+  class="sc-kTvvXX kbzdem"
+  data-testid="molecules-pc-wrap"
+>
+  <div
+    class="sc-jtcaXd eQQKuv"
+    data-testid="molecules-pc-content"
+  >
+    <span>
+      dummy
+    </span>
+  </div>
+</div>
+`;

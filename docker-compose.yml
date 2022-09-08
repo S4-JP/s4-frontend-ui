@@ -1,0 +1,21 @@
+version: '3'
+services:
+  ui:
+    build:
+      context: .docker/ui
+      dockerfile: Dockerfile
+    #command: yarn dev
+    ports:
+      - "3001:3001"
+      - "6006:6006"
+    expose:
+      - 3001
+    volumes:
+      - .:/var/www
+      - node_modules_volume:/var/www/node_modules
+    stdin_open: true
+    tty: true
+    restart: always
+
+volumes:
+  node_modules_volume:

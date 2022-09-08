@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`form - Select のレンダリング確認 SelectItemにimageとiconをセットした場合、レンダリングされる。 1`] = `
+<input
+  data-testid="atoms-f-select-options-input-0"
+  type="radio"
+  value="test value with image"
+/>
+`;
+
+exports[`form - Select のレンダリング確認 SelectItemにimageとiconをセットした場合、レンダリングされる。 2`] = `
+<input
+  data-testid="atoms-f-select-options-input-1"
+  type="radio"
+  value="test value with icon"
+/>
+`;
+
+exports[`form - Select のレンダリング確認 オプションなしで設定した場合、初期値でレンダリングされる。 1`] = `
+<div
+  class="sc-jIZahH cQBDCM"
+  data-testid="atoms-f-select-wrap"
+>
+  <div
+    class="sc-himrzO dYECtE"
+    data-testid="atoms-f-select-selected-item"
+  >
+    <div
+      class="sc-gXmSlM icBQmI"
+      data-testid="atoms-f-select-selected-item-label"
+    >
+      test label
+    </div>
+    <div
+      class="sc-cCsOjp gcvNLB"
+      data-testid="atoms-f-select-selected-item-icon-wrap"
+    >
+      <span
+        class="sc-papXJ kxFMiI"
+        color="#222E40"
+        data-testid="atoms-i-icon-wrap"
+        size="12"
+      >
+        <svg
+          data-testid="atoms-icon-svg-chevron-down"
+          viewBox="0 0 40 40"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M0 40V0h40v40z"
+            fill="none"
+          />
+          <path
+            d="M36.259 13.349a2.954 2.954 0 0 0-4.086 0L19.999 25.521 7.824 13.346a2.89 2.89 0 0 0-4.086 4.088l14.218 14.218a2.885 2.885 0 0 0 4.086 0l14.217-14.218a2.885 2.885 0 0 0 0-4.086Z"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div
+    class="sc-ciZhAO bilKRs"
+    data-testid="atoms-f-select-options"
+  >
+    <label
+      data-testid="atoms-f-select-options-label"
+    >
+      <label
+        class="sc-jdAMXn eICFSo"
+      >
+        <input
+          data-testid="atoms-f-select-options-input-0"
+          type="radio"
+          value="test value"
+        />
+        <div
+          class="sc-iAvgwm bcoBjA"
+          data-testid="atoms-f-select-options-text-wrap-0"
+        >
+          test label
+        </div>
+      </label>
+      <label
+        class="sc-jdAMXn jknONv"
+      >
+        <input
+          data-testid="atoms-f-select-options-input-1"
+          type="radio"
+          value="test value 1"
+        />
+        <div
+          class="sc-iAvgwm bcoBjA"
+          data-testid="atoms-f-select-options-text-wrap-1"
+        >
+          test label 1
+        </div>
+      </label>
+    </label>
+  </div>
+</div>
+`;

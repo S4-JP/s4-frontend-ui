@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <g id="icon" transform="translate(-32 -137)">
+    <g transform="translate(33.667 138.667)">
+      <rect width="16.667" height="36.667" rx="6.5" transform="translate(0 0)" />
+      <rect width="16.667" height="16.667" rx="6.5" transform="translate(20 0)" />
+      <rect width="16.667" height="16.667" rx="6.5" transform="translate(20 20)" />
+    </g>
+    <rect width="40" height="40" transform="translate(32 137)" fill="none"/>
+  </g>
+</svg>

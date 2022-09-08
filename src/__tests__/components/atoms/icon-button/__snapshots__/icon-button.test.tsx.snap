@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IconButtonのレンダリング確認 オプションなしで設定した場合、初期値でレンダリングされる。 1`] = `
+<div
+  class="sc-fEOsli cEXtHP"
+  data-testid="atoms-ib-wrap"
+>
+  <span>
+    dummy
+  </span>
+</div>
+`;
